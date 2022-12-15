@@ -26,8 +26,11 @@ git clone https://github.com/LanoCodes/KEYCELLAR.git
 - Clicking "Generate Password" once will autogenerate a strong password.
   - It will automatically copy to your clipboard as well for easy pasting into a site
 - After filling in each textbox with the necessary information, click "Store"
-  - After clicking store be sure to confirm your choices
-    - ![img_1.png](img_1.png)
-- Your data will be stored in a text file named "data.txt" in the same directory as this program.
+- Your data will be stored in a file named "data.json" in the same directory as this program.
+- To search for a previous store website's username/password
+  - Enter the Website and select the "Search" button.
+  - If found, a window with your information will appear.
+  ![img_1.png](img_1.png)
+
 
 As you save passwords over time, new entries will be appended to the file.
